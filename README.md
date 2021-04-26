@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on NLP for Computational Social Science
 - 🤔 I’m looking for help with Augmented Reality
 - 💬 Ask me about Applied NLP and Machine Learning
-- 📫 How to reach me: tburley@nd.edu
+- 📫 How to reach me: tburleyinfo.research@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I sing!
 -->
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on NLP for Computational Social Science
 - 🤔 I’m looking for help with Augmented Reality
 - 💬 Ask me about Applied NLP and Machine Learning
-- 📫 How to reach me: tburley@nd.edu
+- 📫 How to reach me: tburleyinfo.research@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I sing!
