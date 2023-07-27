@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I sing!
 -->
 
-- 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Signals Processing
 - 🤔 I’m looking for help with Augmented Reality
 - 📫 How to reach me: tburley@alumni.nd.edu
-- 😄 Pronouns: He/Him/His
