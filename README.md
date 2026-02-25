@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tburleyinfo.research@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I sing!
--->
-
 - 🌱 I’m currently learning Signals Processing
 - 🤔 I’m looking for help with Augmented Reality
 - 📫 How to reach me: tburley@alumni.nd.edu
+-->
+- 📫 How to reach me: tburley [at] alumni [dot] nd [dot] edu
